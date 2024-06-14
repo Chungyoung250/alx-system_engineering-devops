@@ -1,4 +1,4 @@
 #!/bin/bash
 echo -e ".:"
-ls -la .
+
 
