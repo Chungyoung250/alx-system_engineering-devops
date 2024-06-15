@@ -1,0 +1,2 @@
+#!/bin/bash
+# Delete files ending with ~ in the current working directory
