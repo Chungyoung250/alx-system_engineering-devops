@@ -1,0 +1,2 @@
+#!/bin/bash
+# Chec if /tmp/u exists, create if it doesn't
